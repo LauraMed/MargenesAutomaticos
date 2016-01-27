@@ -1,0 +1,16 @@
+div{
+		width: 200px;
+		border: 10px solid yellow;
+		padding: 30px;
+		text-align: center;
+		font-size: 15px;
+		margin: 0px 10px 10px 0px;
+	}
+.centrado{	
+		width: 200px;
+		border: 10px solid yellow;
+		padding: 30px;
+		margin: auto;
+		text-align: left;
+		font-size: 15px;
+	}
